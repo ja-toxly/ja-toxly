@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ja-toxly
+- 👀 I’m interested in programming and sport 
+- 🌱 I’m currently learning Javascript 
+- 📫 How to reach me? dc.mythicalshop.pl
+- ⚡ Fun fact: give me money XD
