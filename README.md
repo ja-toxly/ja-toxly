@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ja-toxly
 - 👀 I’m interested in programming and sport 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently focusing on 3D models and minecraft projects.
 - 📫 How to reach me? dc.toxly.pl or dc.naszemc.pl
 - ⚡ Fun fact: I like making money and playing basketball
